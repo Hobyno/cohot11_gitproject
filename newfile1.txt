@@ -1,0 +1,6 @@
+List of fruits
+Oranges
+Apple
+Mango
+Pineaple
+Watermelon
