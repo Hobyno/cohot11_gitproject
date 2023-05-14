@@ -6,3 +6,5 @@ Pineaple
 Watermelon
 pear
 Banana
+Strawberry
+Berry
